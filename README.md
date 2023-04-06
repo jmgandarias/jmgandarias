@@ -1,4 +1,10 @@
-### Hi there 👋
+### Welcome message 👋
+
+Hi! I'm Juanma!
+
+Welcome to my Github Profile!
+
+
 
 <!--
 **jmgandarias/jmgandarias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
