@@ -9,6 +9,16 @@ Juan M. Gandarias is an Assistant Professor at the [Systems Engineering and Auto
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jmgandarias&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+
+## Github Organization
+- 🧑‍🏫 Teaching
+    - [Informatica Industrial GIEI](https://github.com/jmgandarias/informatica_indsutrial_giei_uma)
+- 👨‍💻 Research
+    - [JMGandarias Website](https://github.com/jmgandarias/jmgandarias.github.io)
+    - [How to do it](https://github.com/jmgandarias/how_to_do_it)
+
+
+
 <!--
 **jmgandarias/jmgandarias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
