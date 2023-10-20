@@ -18,11 +18,12 @@ Juan M. Gandarias is an Assistant Professor at the [Systems Engineering and Auto
     - [Informatica Industrial GIEI](https://github.com/jmgandarias/informatica_indsutrial_giei_uma)
 
     
-- 👨‍💻 Research
+- 👨‍💻 Utils
     - [JMGandarias Website](https://github.com/jmgandarias/jmgandarias.github.io)
     - [How to do it](https://github.com/jmgandarias/how_to_do_it)
     - [UMA environment tools](https://github.com/jmgandarias/how_to_do_it)
 
+- 🔬 Projects
 
 
 <!--
